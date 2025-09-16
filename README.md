@@ -21,7 +21,7 @@ We test our code with the following environment:
 
 #### TODO
 
-- [] Release training code.
+- [ ] Release training code.
 
 #### Acknowledgement
 

@@ -12,7 +12,7 @@ We test our code with the following environment:
 
 #### Usage
 
-- Download the pretrained [weight]() to `./weights/`.
+- Download the pretrained [weight](https://drive.google.com/drive/folders/1jYGtWkebgQy3W7tEACLlhZcXLDB664QY?usp=drive_link) to `./weights/`.
 - Inference with the following command:
     ```bash
     cd src

@@ -1,0 +1,6 @@
+model:
+    model_name: 'ODE'
+    stage2: false
+
+rflow:
+    name: 'vmx'

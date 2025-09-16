@@ -1,0 +1,8 @@
+sex: Female
+current_age: 80
+current_image_path: '../example/example.nii.gz'
+current_segm_path: '../example/example_segm.nii.gz'
+target_age: 85
+current_mmse: 30
+current_dx: CN
+target_dx: MCI
